@@ -1,0 +1,17 @@
+﻿{
+  "name": "com.github.qazxsw1240.unity-optional",
+  "version": "0.0.1",
+  "displayName": "Unity Optional",
+  "description": "Monad operations and extensions for Unity projects.",
+  "unity": "6000.0",
+  "keywords": [
+    "optional",
+    "functional",
+    "unity"
+  ],
+  "author": {
+    "name": "qazxsw1240",
+    "url": "https://github.com/qazxsw1240"
+  },
+  "license": "MIT"
+}
