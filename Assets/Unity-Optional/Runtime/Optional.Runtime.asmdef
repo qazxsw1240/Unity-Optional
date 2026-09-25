@@ -1,0 +1,14 @@
+{
+  "name": "Optional.Runtime",
+  "rootNamespace": "Unity.Utility.Functional",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
