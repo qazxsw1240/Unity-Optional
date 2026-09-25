@@ -1,0 +1,16 @@
+{
+    "name": "Optional.Editor",
+    "rootNamespace": "Unity.Utility.Editor",
+    "references": [
+        "GUID:74289aa05ac24c70acedf3cd06dd59bc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
